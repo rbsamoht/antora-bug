@@ -1,0 +1,3 @@
+= Hello world
+
+plantuml::{diagramsdir}/diagram1.plantuml[format=svg,align="center"]

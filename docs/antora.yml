@@ -1,0 +1,6 @@
+name: antora-bug
+title: Antora Bug
+version: master
+start_page: ROOT:bug.adoc
+nav:
+  - modules/ROOT/nav.adoc
